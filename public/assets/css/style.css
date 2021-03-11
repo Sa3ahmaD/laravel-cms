@@ -1,0 +1,35 @@
+.banner {
+    background: lightseagreen;
+    height: 330px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #fff;
+}
+
+.banner-title h2 {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.status-post-box {
+    padding: 50px 0 70px;
+}
+
+.status-post-box textarea {
+    resize: none;
+    margin-bottom: 15px;
+}
+.status-post-box input[type=submit] {
+    background-color:lightseagreen;
+    color: #fff;
+    font-weight:500;
+}
+.card-body h5 small {
+    font-size: 14px;
+    font-weight: 400;
+}
+.status-box .card img {
+    height: 115px;
+    width: 115px;
+}
